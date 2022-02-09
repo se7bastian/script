@@ -2,8 +2,8 @@
 // @name        NewRodeo Dark
 // @namespace   LTN4
 // @version 20210521
-// @updateURL   https://drive.google.com/file/d/1Hrq2tZdmJAkE9M4CnGyyR9xviDaiCPqW/view?usp=sharing
-// @downloadURL https://drive.corp.amazon.com/documents/radusebb@/Dark%20Rodeo/NewRodeo%20Dark.user
+// @updateURL   https://github.com/se7bastian/script/blob/main/nrodeo
+// @downloadURL https://github.com/se7bastian/script/blob/main/nrodeo
 // @include     https://rodeo-*.amazon.com/*/ItemList?*
 // @include     https://rodeo-*.amazon.com/*/Search?*
 // @include     https://rodeo-*.amazon.com/*/ExSD?*
